@@ -41,7 +41,7 @@ dependencyResolutionManagement {
 ### Add Dependency
 ```
 	dependencies {
-	        implementation 'com.github.Excelsior-Technologies-Community:Android_NoRecordsWidget:1.0.0'
+	        implementation 'com.github.Excelsior-Technologies-Community:Android_CustomSwitch:1.0.0'
 	}
 ```
 
